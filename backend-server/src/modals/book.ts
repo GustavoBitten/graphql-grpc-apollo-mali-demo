@@ -2,7 +2,7 @@ export default [{
   id: 1,
   title: 'Talent',
   price: 37.8,
-  categories: [
+  categorie: [
     'Education',
     'Popular',
   ],

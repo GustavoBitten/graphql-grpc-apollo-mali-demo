@@ -4,6 +4,7 @@ type Books {
   author: Author
   price: Float
   categories: [String]
+  peixe: String
 }
 
 type Author {

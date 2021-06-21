@@ -1,5 +1,6 @@
 import listBooks from './listBooks'
 import author from './author'
+import peixe from './peixe'
 
 const resolvers = {
   Query: {
@@ -7,6 +8,7 @@ const resolvers = {
   },
   Books: {
     author,
+    peixe
   }
 }
 
